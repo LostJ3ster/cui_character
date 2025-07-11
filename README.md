@@ -1,3 +1,4 @@
+# Deprecated & Discontinued
 # LostJ3ster's fork of PainedPsyche's cui_character
 ## Changes
 In this fork I changed the way to load clothing data.
